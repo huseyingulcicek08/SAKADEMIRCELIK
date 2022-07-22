@@ -8,6 +8,6 @@
 
  <p align="justify">Bu depo güncellenecek # SAKA DEMİR ÇELİK A.Ş.  web sitesini içeriyo.(<a href="https://huseyingulcicek08.github.io/SAKADEMIRCELIK/" target="_blank">Live Demo</a>)HTML,CSS,JavaScript kullanılarak yapılmıştır <a href="https://huseyingulcicek08.github.io/SAKADEMIRCELIK/" target="_blank_">Buraya Tıkla</a>.</p>
 
-<a href="https://resimlink.com/Fe6HTLGyU-d" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/Fe6HTLGyU-d.jpg" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>)
+
 
 Web sitesi hakkında herhangi bir geri bildiriminiz varsa lütfen bana huseyingulcicek08@gmail.com adresinden ulaşın.
